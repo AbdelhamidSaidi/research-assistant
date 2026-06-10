@@ -424,23 +424,4 @@ cat reports/report_*.md
 
 ---
 
-## 📞 Contact & Support
-
-For issues, questions, or suggestions:
-1. Check the `docs/` directory for detailed information
-2. Review error messages carefully
-3. Verify API keys and configuration
-4. Check GitHub issues (if applicable)
-
----
-
-**Status**: ✅ Production Ready
-
-**Last Updated**: 2026-06-10
-
-**Version**: 1.0.0
-
----
-
 **Made with ❤️ using CrewAI, Groq, and Serper**
-# research-assistant
